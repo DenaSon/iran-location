@@ -1,7 +1,7 @@
 {
     "name": "denason/iran-location",
     "version": "1.0.1",
-    "description": "A Laravel package to manage Iranian location data including provinces and cities, with support for reverse geocoding through Neshan API. Provides easy access to location information with seeders, models, and Blade components for seamless integration into your Laravel projects.",
+    "description": "A Laravel package to manage Iranian location data including provinces and cities,and Eloquent relations,helpers,facades and Caching features",
     "keywords": ["laravel", "iran-location", "iran-geocoding", "geocoding", "iran-cities","iran regions","iran-province","iran"],
 
     "authors": [
