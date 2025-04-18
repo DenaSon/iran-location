@@ -38,11 +38,11 @@ class IranLocationServiceProvider extends ServiceProvider
 
 
         // Register commands
-        if ($this->app->runningInConsole()) {
-            $this->commands([
-                IranLocationInstallCommand::class
-            ]);
-        }
+       // if ($this->app->runningInConsole()) {
+           // $this->commands([
+           //     IranLocationInstallCommand::class
+          //  ]);
+      //  }
 
 
     }
