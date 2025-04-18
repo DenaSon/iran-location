@@ -81,3 +81,6 @@ $cities = iranLocation()->getCitiesByProvinceId(1);
 | `getProvinceOfCityId($cityId)` | دریافت استان مربوط به یک شهر بر اساس ID |
 | `getProvinceOfCityName($cityName)` | دریافت استان مربوط به یک شهر بر اساس نام |
 
+
+
+
