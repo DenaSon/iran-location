@@ -1,6 +1,6 @@
 <?php
 
-namespace Denason\IranLocation;
+namespace denason\IranLocation;
 
 use denason\IranLocation\Console\Commands\IranLocationInstallCommand;
 use Illuminate\Support\ServiceProvider;
